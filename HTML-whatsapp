@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #075e54;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>WhatsApp</h1>
+        <p>WhatsApp is a popular messaging app used by millions of people around the world. It allows users to send text messages, voice messages, make voice and video calls, share images, videos, documents, user location, and other media.</p>
+        <p>Key features of WhatsApp include end-to-end encryption for secure communication, group chats, status updates, and WhatsApp Web, which allows users to access their WhatsApp account on a web browser.</p>
+        <p>WhatsApp was founded in 2009 by Brian Acton and Jan Koum, and later acquired by Facebook in 2014. It has since grown into one of the most widely used messaging platforms globally.</p>
+        <p>To download WhatsApp and learn more about its features, visit the <a href="https://www.whatsapp.com/" target="_blank">official website</a>.</p>
+        <p>Disclaimer: This website is for educational purposes only and is not affiliated with or endorsed by WhatsApp.</p>
+    </div>
+</body>
+</html>
